@@ -2,6 +2,6 @@
 - 👀 I’m interested in computer programming.  
 - 🌱 I’m currently learning Python, HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me email me at amerwin724@gmail.com
+- 📫 How to reach me email me at ...
 
 
